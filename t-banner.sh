@@ -2,7 +2,7 @@
 ######################################
 #        PROJECT: T-Banner           #
 #        Author:  Ambarish mandal    #
-#  email: Ambarish.ofc@gmailcom      #
+#  email: ambarish.ofc@gmailcom      #
 ######################################
 echo -e "\e[32m[*]\e[34m WELCOME Ambarish Mandal's TOOLS  \e[m "
 echo
