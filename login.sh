@@ -32,7 +32,7 @@ then
  echo
 else
  echo
- echo "Re-run : bash t-remix.sh "
+ echo "Re-run : bash t-banner.sh "
  exit 0
 fi
 
