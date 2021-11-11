@@ -8,7 +8,7 @@ echo "
   
 
 
-echo "  Made by ARIJ ARMAN with love ------- SUBSCRIBE my channel TECH KNOW LINUX
+echo "  Made by Ambarish Mandal with love ------->>
 
               ██╗  ██╗ █████╗  █████╗ ██╗  ██╗███████╗██████╗
               ██║  ██║██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔══██╗
@@ -18,7 +18,7 @@ echo "  Made by ARIJ ARMAN with love ------- SUBSCRIBE my channel TECH KNOW LINU
               ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
                                                         "|lolcat
 
-echo " CREATOR is ARIJ ARMAN with your love... 
+echo " CREATOR is Ambarish Mandal with your love... 
      ━━━━━━━━━━━━━━━━━━━━━━━━━ [★] W E L C O M E [★] ━━━━━━━━━━━━━━━━━━━━━━━━
 
                               " |lolcat
